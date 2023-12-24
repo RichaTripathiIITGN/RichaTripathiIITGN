@@ -1,5 +1,4 @@
-### Hi there 👋 
-
+### Hi there 👋
 ### I’m currently working on identifying signatures of sleep in zebrafish
 ### I’m currently learning Hidden Markov Models
 ### I’m looking to collaborate on probabilistic timeseries modeling
